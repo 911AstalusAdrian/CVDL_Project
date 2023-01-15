@@ -1,0 +1,5 @@
+DATA_PATH = "data/genres_original"
+JSON_PATH = "data/big_data.json"
+SAMPLE_RATE = 22050
+TRACK_DURATION = 30
+SAMPLES_PER_TRACK = SAMPLE_RATE * TRACK_DURATION
